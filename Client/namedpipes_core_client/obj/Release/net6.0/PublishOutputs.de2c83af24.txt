@@ -1,0 +1,5 @@
+C:\Users\rikediya\source\repos\namedpipes_core_client\namedpipes_core_client\bin\Release\net6.0\publish\namedpipes_core_client.exe
+C:\Users\rikediya\source\repos\namedpipes_core_client\namedpipes_core_client\bin\Release\net6.0\publish\namedpipes_core_client.dll
+C:\Users\rikediya\source\repos\namedpipes_core_client\namedpipes_core_client\bin\Release\net6.0\publish\namedpipes_core_client.deps.json
+C:\Users\rikediya\source\repos\namedpipes_core_client\namedpipes_core_client\bin\Release\net6.0\publish\namedpipes_core_client.runtimeconfig.json
+C:\Users\rikediya\source\repos\namedpipes_core_client\namedpipes_core_client\bin\Release\net6.0\publish\namedpipes_core_client.pdb

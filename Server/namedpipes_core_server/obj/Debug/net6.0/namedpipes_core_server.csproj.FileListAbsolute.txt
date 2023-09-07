@@ -1,0 +1,15 @@
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\bin\Debug\net6.0\namedpipes_core_server.exe
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\bin\Debug\net6.0\namedpipes_core_server.deps.json
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\bin\Debug\net6.0\namedpipes_core_server.runtimeconfig.json
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\bin\Debug\net6.0\namedpipes_core_server.dll
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\bin\Debug\net6.0\namedpipes_core_server.pdb
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\obj\Debug\net6.0\namedpipes_core_server.csproj.AssemblyReference.cache
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\obj\Debug\net6.0\namedpipes_core_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\obj\Debug\net6.0\namedpipes_core_server.AssemblyInfoInputs.cache
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\obj\Debug\net6.0\namedpipes_core_server.AssemblyInfo.cs
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\obj\Debug\net6.0\namedpipes_core_server.csproj.CoreCompileInputs.cache
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\obj\Debug\net6.0\namedpipes_core_server.dll
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\obj\Debug\net6.0\refint\namedpipes_core_server.dll
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\obj\Debug\net6.0\namedpipes_core_server.pdb
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\obj\Debug\net6.0\namedpipes_core_server.genruntimeconfig.cache
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\obj\Debug\net6.0\ref\namedpipes_core_server.dll

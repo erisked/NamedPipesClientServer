@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2xSUDMyrHj9CdK8uzLzFTDnQkJYt0t/ZfoOWydOhtKArX/KNSII1MROcwOAeoQr88+ZQgEPFfR8csJhi+j3lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rikediya\\source\\repos\\namedpipes_core_server\\namedpipes_core_server\\namedpipes_core_server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rikediya\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.16\\microsoft.netcore.app.host.linux-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\bin\Release\net6.0\publish\linux-x64_FD\namedpipes_core_server
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\bin\Release\net6.0\publish\linux-x64_FD\namedpipes_core_server.dll
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\bin\Release\net6.0\publish\linux-x64_FD\namedpipes_core_server.deps.json
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\bin\Release\net6.0\publish\linux-x64_FD\namedpipes_core_server.runtimeconfig.json
+C:\Users\rikediya\source\repos\namedpipes_core_server\namedpipes_core_server\bin\Release\net6.0\publish\linux-x64_FD\namedpipes_core_server.pdb
